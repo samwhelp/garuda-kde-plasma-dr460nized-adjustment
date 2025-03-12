@@ -53,6 +53,19 @@ diminactiveEnabled=true
 kwin4_effect_translucencyEnabled=true
 wobblywindowsEnabled=true
 
+[Round-Corners]
+ActiveOutlineAlpha=255
+ActiveOutlineUseCustom=false
+ActiveOutlineUsePalette=true
+InactiveCornerRadius=20
+InactiveOutlineAlpha=255
+InactiveOutlineColor=29,153,243
+InactiveOutlineThickness=3
+InactiveSecondOutlineThickness=0.25
+OutlineThickness=3
+SecondOutlineThickness=0.25
+Size=20
+
 [TabBox]
 LayoutName=big_icons
 
@@ -62,6 +75,7 @@ LayoutName=coverswitch
 [Windows]
 Placement=Centered
 RollOverDesktops=true
+BorderlessMaximizedWindows=true
 
 [org.kde.kdecoration2]
 NoPlugin=false
