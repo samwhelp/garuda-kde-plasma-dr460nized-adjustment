@@ -1,10 +1,10 @@
 [Appearance]
-ColorScheme=Mokka
+ColorScheme=Sweet
 Font=Monospace,16,-1,5,50,0,0,0,0,0
 LineSpacing=1
 
 [General]
-Name=Mokka
+Name=Sweet
 Parent=FALLBACK/
 TerminalMargin=8
 
