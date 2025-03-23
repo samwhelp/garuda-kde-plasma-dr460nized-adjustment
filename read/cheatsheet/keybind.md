@@ -18,7 +18,7 @@ parent: Cheatsheet
 
 
 
-## Porject
+## Project
 
 | [hotkey-tips](https://github.com/samwhelp/garuda-kde-plasma-dr460nized-adjustment/tree/main/project/gen/hotkey-tips) |
 | ----------- |
